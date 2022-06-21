@@ -15,5 +15,6 @@ public class Test : MonoBehaviour
     {
         //new code 1
         //new code 2
+        //conflict code
     }
 }
